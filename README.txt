@@ -1,0 +1,1 @@
+Basta exceutar o script rle2 no mesmo diretório que os dados
